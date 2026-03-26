@@ -42,7 +42,3 @@ Other:
 - Handling authentication flow between frontend and backend  
 - Managing CORS issues  
 - Preventing users from accepting their own requests  
-
-## Notes
-
-This project was built during a hackathon in a team of two under limited time constraints.
